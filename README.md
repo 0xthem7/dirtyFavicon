@@ -1,5 +1,7 @@
 # dirtyFavicon
 
+A tool to find the hash of favicon image, which you can lookup using shodan to increase the attack surface of your trarget.
+
 ### Installations
 
 ```
